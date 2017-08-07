@@ -1,2 +1,8 @@
 # Employee-Application
-1.Add Employee to employee table
+
+
+2.Edit Employee
+
+3.Delete Employee
+
+4.List all employees
