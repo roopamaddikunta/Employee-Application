@@ -1,5 +1,6 @@
 # Employee-Application
 
+1.Add new Employee
 
 2.Edit Employee
 
